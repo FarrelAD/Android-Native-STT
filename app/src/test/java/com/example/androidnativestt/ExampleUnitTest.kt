@@ -1,4 +1,4 @@
-package com.belajar.androidnativestt
+package com.example.androidnativestt
 
 import org.junit.Test
 

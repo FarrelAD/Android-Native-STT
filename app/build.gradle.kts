@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.belajar.androidnativestt"
+    namespace = "com.example.androidnativestt"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.belajar.androidnativestt"
+        applicationId = "com.example.androidnativestt"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
